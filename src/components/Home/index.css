@@ -1,0 +1,7 @@
+.home_bgCtn {
+  background-color: #040306;
+  color: #ffffff;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
